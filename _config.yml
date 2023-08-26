@@ -181,3 +181,6 @@ math:
 auto_category:
  enable: true
  depth: 
+
+# encrypt:
+# 	enable:true
